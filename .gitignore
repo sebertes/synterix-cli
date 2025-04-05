@@ -1,0 +1,10 @@
+/node_modules/
+/**/node_modules/
+/base-dist
+/.idea
+/npm-debug.log
+.DS_Store
+pnpm-lock.yaml
+/tmp/
+/**/.dist/
+/**/dist
